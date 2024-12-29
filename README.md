@@ -1,5 +1,7 @@
 # Socketz
 
+![Socket-io svg](https://github.com/user-attachments/assets/08ba7e06-7723-4cd4-b012-68ce6fc2a1df)
+
 Desciption
 -
 
