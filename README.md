@@ -1,6 +1,6 @@
 # Socketz
 
-![Socket-io svg](https://github.com/user-attachments/assets/08ba7e06-7723-4cd4-b012-68ce6fc2a1df)
+![Socket-io svg](https://github.com/user-attachments/assets/4fcf7cd7-04d5-4c87-9c5b-2d7c5263e0e1)
 
 Desciption
 -
