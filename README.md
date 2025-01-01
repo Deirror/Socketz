@@ -18,3 +18,12 @@ Steps
 3. Compile them so that you get *NetServer.exe* and *NetClient.exe*.
 4. First, run the server and then run as many clients as you want.
 5. Press the keys(specified down below in the table) and see how networking works in C++ 🤙.
+
+Keys
+-
+
+| Key | Task |
+|---|---|
+| `1` | Shows the ping of the connection(how much time it took to connect to the server) |
+| `2` | Messages all the connected and accepted clients by a concrete client|
+| `3` | Disconnects form the server |
