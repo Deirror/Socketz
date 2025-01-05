@@ -12,7 +12,7 @@ The main goal of `Socketz` is to demonstrate how networking in general works.
 
 Steps
 -
-1. Asio 1.18 must be installed on you device.
+1. Asio 1.18 must be installed on your device.
 2. Clone the repo and make sure that you run on C++17 or higher(Modern C++ is used in the project).
 3. Make *NetServer* and *NetClient* depend on the static library *NetCommon*.
 4. Compile them so that you get *NetServer.exe* and *NetClient.exe*.
