@@ -1,5 +1,5 @@
 #pragma once
-#include "../include/net_include.h"
+#include "net_include.h"
 
 NET_BEGIN
 
@@ -27,7 +27,7 @@ struct message
 	}
 
 	template <typename DataType>
-	friend message<T>& operator<<(message<T>& msg, DataType& data)
+	friend message<T>& operator<<(message<T>& msg, const DataType& data)
 	{
 		//static_assert(std::is_standart_layout<DataType>::value, "Data is too complex to be pushed into vector");
 

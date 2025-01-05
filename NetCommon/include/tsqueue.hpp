@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../include/net_include.h"
+#include "net_include.h"
 
 NET_BEGIN
 template<typename T>
